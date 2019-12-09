@@ -1,0 +1,26 @@
+{
+  "name": "markfree",
+  "version": "0.0.1",
+  "description": "A minimal markdown editor",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstzwj/markfree.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Wang Jun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jstzwj/markfree/issues"
+  },
+  "homepage": "https://github.com/jstzwj/markfree#readme",
+  "devDependencies": {
+    "electron": "^7.1.3"
+  }
+}
